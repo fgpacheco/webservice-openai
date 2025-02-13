@@ -75,6 +75,7 @@ public class ChatCompletionsController {
 
         mapMessage.get("assistant").add(respostaOpenAI);
         return respostaOpenAI;
+
     }
 
     private static String getIntrucoesSystem() {
