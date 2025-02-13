@@ -85,7 +85,7 @@ public class ChatCompletionsController {
                 "            2 - Responda sempre em português, mesmo que o usuário pergunte em outras linguas\n" +
                 "            3 - Se a pergunta não possuir relação com o tema do manual, devolva a recusa padrão\n" +
                 "            4 - Não responda informando que é para ligar para o 190 ou outro número de emergência\n" +
-                //"            4 - Caso você não obtenha a resposta no manual fornecido, devolva a recusa padrão\n" +
+                "            5 - Coloque a resposta em um json, separando por cabeçalho, tópicos relavantes ou de dicas, e mensagem principal\n" +
                 "            Recusa padrão = Sinto muito, mas não tenho a informação para responder esta questão.";
     }
 }
