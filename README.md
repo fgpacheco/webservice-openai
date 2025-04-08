@@ -7,3 +7,5 @@ Webservice com exemplo de comunicação com a API do OpenAI
 
 
 Este Readme conterá as requisições e documentação do uso do webservice.
+
+Teste.
