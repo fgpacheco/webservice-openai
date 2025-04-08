@@ -27,6 +27,7 @@ public class ChatCompletionsController {
     @Value("${openai.model}")
     private String model;
 
+
     @Autowired
     private OpenApiClient openApiClient;
 
