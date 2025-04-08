@@ -6,3 +6,4 @@ Webservice com exemplo de comunicação com a API do OpenAI
 [API OpenAI - Sign](https://platform.openai.com/docs/overview)
 
 
+Este Readme conterá as requisições e documentação do uso do webservice.
